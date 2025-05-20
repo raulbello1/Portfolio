@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "nbPRM",
+    "description": "Aplicación web conectada con Business Central utilizada para la gestión de proyectos",
+    "image": "/nbPRM.jpg"
+  },
+  {
+    "id": 2,
+    "title": "nbTickets",
+    "description": "Aplicación web conectada con Business Central utilizada para la gestión de gastos",
+    "image": "/nbTickets.jpg"
+  },
+  {
+    "id": 3,
+    "title": "nbWarehouse",
+    "description": "Aplicación web conectada con Business Central utilizada para la gestión de almacén",
+    "image": "/nbWarehouse.jpg"
+  }
+]
